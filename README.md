@@ -1,4 +1,3 @@
-
 # OSS Audit — Git
 ### Open Source Software Course | Capstone Project
 
